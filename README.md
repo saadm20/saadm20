@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saad
 - 👀 I’m interested in development 
 - 🌱 I’m currently learning mobile development
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on Flutter projects
 
 
 <!---
